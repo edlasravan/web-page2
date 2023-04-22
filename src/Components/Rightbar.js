@@ -1,6 +1,6 @@
 import { Box } from '@mui/material'
 import React from 'react'
-import { Typography,styled } from '@mui/material'
+import { styled } from '@mui/material'
 import img from '../asserts/blog1.jpg'
 
 export const Rightbar = () => {
